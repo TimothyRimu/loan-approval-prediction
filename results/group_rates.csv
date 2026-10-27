@@ -1,0 +1,5 @@
+group,attribute,n,actual_approval,model_approval
+Female,Gender,112,0.67,0.839
+Male,Gender,489,0.693,0.857
+No,Married,213,0.629,0.84
+Yes,Married,398,0.716,0.857
